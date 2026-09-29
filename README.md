@@ -1,6 +1,6 @@
 ### Hi, I'm Mark 👋
 
-Marketing engineer at [DRAK Marketing](https://drakmarketing.com). I build open-source MCP (Model Context Protocol) servers that connect Claude to paid-media and analytics platforms — Google Ads, Meta Ads, Microsoft/Bing Ads, LinkedIn Ads, Reddit Ads, GA4, GTM, and Search Console.
+Marketing engineer at [DRAK Marketing](https://drakmarketing.com). I build open-source MCP (Model Context Protocol) servers that connect Claude to paid-media and analytics platforms: Google Ads, Meta Ads, Microsoft/Bing Ads, LinkedIn Ads, Reddit Ads, GA4, GTM, and Search Console.
 
 **Flagship projects:**
 - [mcp-marketing-suite](https://github.com/mharnett/mcp-marketing-suite) — production MCP servers for performance marketing, 124+ tools
